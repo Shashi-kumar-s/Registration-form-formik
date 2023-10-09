@@ -1,0 +1,17 @@
+@media (max-width:1024px) {
+    .form__container{width: 100%; height: 90vh; margin-top: 30px;}
+    .form{width: 100%;}
+}
+@media (max-width:960px) {
+   
+}
+@media (max-width:768px) {
+    .form__img{display: none;}
+    .form__container{width: 80%; height: 90vh; margin-top: 20px;margin-bottom: 20px;}
+    .form__box{width: 100%;}
+}
+@media (max-width:460px) {
+    .form__img{display: none;}
+    .form__container{width: 100%; height: 90vh; margin-top: 30px;}
+    .form{width: 100%;}
+}
